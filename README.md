@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**VaishnaviSuresh57/VaishnaviSuresh57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vaishnavi Suresh 👋
 
-Here are some ideas to get you started:
+### Final-Year CSE Student | Aspiring AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student passionate
+about Artificial Intelligence, Machine Learning, and
+building practical software applications.
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, JavaScript
+- **AI & Data Science:** NumPy, Pandas, Scikit-learn
+- **Web Development:** HTML, CSS, Flask
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Figma
+
+## 🚀 Featured Projects
+
+- **HealthChain** — Blockchain-based secure healthcare
+  record management system.
+- **Volunteer Management System** — Volunteer
+  registration, program management, and attendance tracking.
+- **Expense Tracker** — Personal expense management
+  application. *(Project improvements in progress.)*
+
+## 📚 Currently Learning
+
+- Machine Learning with Python
+- Model evaluation and data preprocessing
+- Building practical AI applications
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Visit my profile](YOUR_LINKEDIN_URL)
+- Portfolio: [Visit my portfolio](YOUR_PORTFOLIO_URL)
+
+---
+
+*Learning, building, and improving one project at a time.*
