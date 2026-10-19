@@ -1,5 +1,5 @@
 
-# Hi, I'm Vaishnavi Suresh 👋
+# Hi, I'm Vaishnavi S👋
 
 ### Final-Year CSE Student | Aspiring AI Engineer
 
