@@ -32,7 +32,7 @@ building practical software applications.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Visit my profile](www.linkedin.com/in/07vaishnavi-s)
+- LinkedIn: [Visit my profile](https://www.linkedin.com/in/07vaishnavi-s)
 - Portfolio: [Visit my portfolio](YOUR_PORTFOLIO_URL)
 
 ---
